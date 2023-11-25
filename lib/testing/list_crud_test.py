@@ -5,7 +5,6 @@ from list_crud import (
     retrieve_first_element_from_list, retrieve_element_from_index,
     retrieve_last_element_from_list
 )
-
 class TestListCrud:
     '''Module list_crud.py'''
 
